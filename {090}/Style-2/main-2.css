@@ -1,0 +1,17 @@
+*{list-style: none;
+text-decoration: none}
+.Dady{justify-content: space-evenly;
+display: flex;
+}
+.Animation-a-2{
+    background: olive;
+    border: solid 3px;
+    border-radius: 10px;
+    color: blue
+}
+.Animation-a-2:hover{
+    transition: all 50ms;
+background: orange;
+color: cyan;
+border: solid 2px red;
+}

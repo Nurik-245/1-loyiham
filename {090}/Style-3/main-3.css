@@ -1,0 +1,9 @@
+*{  list-style: none;
+    text-decoration: none}
+.li-dady-2{ 
+    justify-content: space-evenly;
+    display: flex}
+    .ul-big-dady{
+        justify-content: space-evenly;
+        display: flex
+    }

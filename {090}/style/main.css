@@ -1,0 +1,41 @@
+*{text-decoration: none;
+    list-style: none }
+.box__card{
+    
+    justify-content: space-evenly;
+    display: flex}
+    .open-sea-animation{
+        color: white;
+        padding: 5px;
+        background: orchid;
+        border-radius: 10px;
+        border: solid 3px orchid ;
+    }
+    .open-sea-animation:hover{
+        transition: all 50ms;
+        background: silver;
+        border: solid 2px red;
+    border-radius: 10px;
+    }
+    .teg-p{
+        margin: 
+         50px 600px}
+         .bu-h1-teg{
+             margin: 0px 600px}
+         .bu-p-tegi-2{
+             text-align: center}
+         .animation-a{
+             background: green;color: greenyellow ;
+             border-radius: 10px;
+             padding: 10px;}
+             .animation-a:hover{
+                 transition: all 50ms;
+                 background: white;
+                 border: solid 1px;
+                 color: blue;
+                 background: cyan;
+                padding: 5px;}
+                .box__item-ul{display: flex;
+                    justify-content: space-evenly;
+                    align-items: center }
+         
